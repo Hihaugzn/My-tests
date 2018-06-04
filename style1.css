@@ -1,0 +1,40 @@
+ul{
+    padding:0px;
+    margin:0px;
+  }
+  
+  #content1 ul li{
+    display: inline;
+    
+  }
+  #content2 ul li{
+      display: inline;
+  }
+  a{
+    outline:none;
+    text-decoration:none;
+    padding:2px 1px 0;
+  }
+  a:link{
+    color:blue; 
+  }
+  a:visited{
+    color:purple;
+  }
+  a:focus,a:hover{
+    border-bottom:1px solid;
+    background-color:#CDFEAA;
+  }
+  a:active{
+    background: #265301;
+    color: #CDFEAA;
+  }
+  #content3 span{
+    display:block;
+  }
+  #content4 span{
+    display:block;
+  }
+  #content5 span{
+    display:block;
+  }
